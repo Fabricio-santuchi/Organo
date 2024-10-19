@@ -1,6 +1,6 @@
 # Organo - Projeto de Organização de Equipes
 
-Veja o projeto em funcionamento: [Organo na Vercel](https://organo-lemon-rho.vercel.app/)
+Veja o projeto em funcionamento: [Organo na Vercel](https://organo-kappa-fawn.vercel.app/)
 
 Este projeto foi desenvolvido como parte de um curso da **Alura**, com o objetivo de praticar habilidades em **React** e **Vite**, criando uma plataforma para **organização de equipes**. A aplicação permite **criar e gerenciar diferentes times**, personalizando suas cores e atribuindo colaboradores a cada um deles.
 
