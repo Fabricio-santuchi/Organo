@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.campo {
+  margin-top: 20px;
+}
+.campo label {
+  display: block;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  padding-bottom: 5px;
+}
+.campo input {
+  padding: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.081);
+  border-radius: 3px;
+}
+.campo input::placeholder {
+  color: #a4a4a4;
+  font-weight: 400;
+  font-size: 16px;
+}
+.campo-color input {
+  height: 40px;
+  padding: 5px 24px;
+}

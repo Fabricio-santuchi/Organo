@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.footer {
+  background-color: #6278f7;
+  background-image: url("./imagens/fundo.png");
+  padding: 89px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 30px;
+}
+.footer .redes {
+  display: flex;
+  gap: 50px;
+}
+.footer .redes img {
+  width: 30px;
+}
+.footer .logo img {
+  width: 170px;
+}
+
+.footer .author {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
