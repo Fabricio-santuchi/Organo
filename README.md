@@ -28,6 +28,7 @@ Este projeto foi desenvolvido como parte de um curso da **Alura**, com o objetiv
 Para melhor ilustrar o funcionamento do projeto, aqui está uma imagem prévia da interface principal:
 
 ![Preview da aplicação](./public/preview.png)
+![Preview da aplicação](./public/preview2.png)
 
 ## 🚀 Como rodar o projeto
 
