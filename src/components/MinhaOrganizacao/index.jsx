@@ -10,7 +10,7 @@ const MinhaOrganizacao = ({ aoFormularioVisivel }) => {
       </div>
       <div className="btn-add-remove">
         <button onClick={aoFormularioVisivel}>
-          <img src="/src/assets/btn-form.png" alt="btn" />
+          <img src="/public/btn-form.png" alt="btn" />
         </button>
       </div>
     </div>
