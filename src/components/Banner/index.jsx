@@ -1,9 +1,10 @@
 import "./Banner.css";
+import imgBanner from "/public/banner.png";
 
 const Banner = () => {
   return (
     <header className="banner">
-      <img src="/public/banner.png" alt="Banner" />
+      <img src={imgBanner} alt="Banner" />
     </header>
   );
 };

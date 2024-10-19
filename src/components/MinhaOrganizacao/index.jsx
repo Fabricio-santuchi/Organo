@@ -1,4 +1,5 @@
 import "./MinhaOrganizacao.css";
+import btnForm from "/public/btn-form.png";
 
 const MinhaOrganizacao = ({ aoFormularioVisivel }) => {
   return (
@@ -10,7 +11,7 @@ const MinhaOrganizacao = ({ aoFormularioVisivel }) => {
       </div>
       <div className="btn-add-remove">
         <button onClick={aoFormularioVisivel}>
-          <img src="/public/btn-form.png" alt="btn" />
+          <img src={btnForm} alt="btn" />
         </button>
       </div>
     </div>
