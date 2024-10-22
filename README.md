@@ -75,7 +75,6 @@ PROJETO-ORG/
 │
 ├── node_modules/          # Dependências do Node.js
 ├── public/                # Arquivos públicos
-│   └── index.html         # Ponto de entrada HTML
 │   └── preview.png        # Imagem de preview do projeto
 │
 ├── src/                   # Diretório principal de código-fonte
@@ -100,6 +99,7 @@ PROJETO-ORG/
 ├── .gitignore             # Arquivo Gitignore
 ├── db.json                # Banco de dados JSON (mock)
 ├── package.json           # Configurações do projeto e dependências
+├── index.html             # Ponto de entrada HTML
 ├── package-lock.json      # Arquivo de bloqueio de dependências do npm
 ├── README.md              # Documentação do projeto
 ├── reset.css              # Estilos CSS reset
